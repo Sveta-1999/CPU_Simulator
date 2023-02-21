@@ -1,0 +1,10 @@
+mov reg_1, 3 
+mov reg_2, 22 
+add reg_1, 7 
+inc reg_2 
+cmp reg_1, reg_2 
+print reg_2 
+print reg_1 
+
+
+
